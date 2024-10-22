@@ -36,15 +36,10 @@ class HistoryService {
       return parsedCities;
    });
   // TODO Define an addCity method that adds a city to the searchHistory.json file
-  async addCity(city: string) {
-    const cities = await this.getCities();
-    const newCity = new City(city, uuidv4());
-    cities.push(newCity);
-    return await this.write(cities);
-  }
-  // async addCity(city: string) {}
+  async addCity(city: string):{
+
   // * BONUS TODO: Define a removeCity method that removes a city from the searchHistory.json file
-  // async removeCity(id: string) {}
-}
+  async removeCity(id: string): Promise<void> {
+
 
 export default new HistoryService();
