@@ -1,1 +1,14 @@
-[]
+[
+	{
+		"name": "Las Vegas",
+		"id": "c58aa59c-a089-4fa9-b8d5-ef7596ba7bd3"
+	},
+	{
+		"name": "Pittsburgh",
+		"id": "5a6eacaa-9090-496b-bce3-456749044981"
+	},
+	{
+		"name": "Cleveland",
+		"id": "af1a906c-0722-48e7-a361-5cd3d6090cd6"
+	}
+]
