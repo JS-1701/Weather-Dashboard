@@ -2,6 +2,12 @@
 
 ## Overview
 The Weather Dashboard is a web application that retrieves and displays weather data using the OpenWeather API. This project involves building the backend, connecting it to the frontend, and deploying the application on Render.
+Link to the application https://weather-dashboard-z3r6.onrender.com
+![Screenshot 2024-10-25 200501](https://github.com/user-attachments/assets/a39d6bb7-1faf-46da-8a29-5871bc52f0d0)
+
+
+
+
 
 ## Table of Contents
 - [Features](#features)
